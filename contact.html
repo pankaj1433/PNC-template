@@ -12,6 +12,11 @@
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	<style>
+			form div {
+				margin: '5px 25px'
+			}
+	</style>
 	</head>
 	<body class="right-sidebar">
 		<div id="page-wrapper">
@@ -53,9 +58,24 @@
 										</p>
 									</header>
 									<section>
-										<header>
-											<h3>Contact us form Comes here.</h3>
-										</header>
+											<form action="" style=" background-color : #ffc;">
+													<div style="display:inline-block"><label >Name:</label></div>
+													<div style="display:inline-block"><input type="text" id="fname"  name="firstname" placeholder="Your name.."> </div>
+													<br/><br/>
+													<div style="display:inline-block"><label for="mobile">Mobile:</label></div>
+													<div style="display:inline-block"><input type="text" id="mobile" name="mobile" placeholder="Your mobile.."> </div>
+													<br/><br/>
+													<div style="display:inline-block"><label for="city">City:</label></div>
+													<div style="display:inline-block"><input type="text" id="city" name="city" placeholder="Your city.."> </div>
+													<br/><br/>
+													<div style="display:inline-block"><label for="email">Email Id:</label></div>
+													<div style="display:inline-block"><input type="email" id="email" name="email" placeholder="Your email.."> </div>
+													<br/><br/>
+													<div style="display:inline-block"><label for="msg">Message:</label></div>
+													<div style="display:inline-block"><textarea id="msg" name="msg" placeholder="Write something.." style="height:200px"></textarea></div>
+													<br/><br/>
+												<input type="submit" value="Submit">
+											</form>
 									</section>
 								</article>
 							</div>
