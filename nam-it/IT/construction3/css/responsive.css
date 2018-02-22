@@ -1,0 +1,902 @@
+/*          Responsive styles
+================================================== */
+
+@media only screen and (min-width: 1678px) and (max-width: 1923px) {
+
+}
+@media only screen and (min-width: 1390px) and (max-width: 1677px) {}
+/*                     Tablet Landscape
+=======================================================================================*/
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    /*--------------------------------------
+   Header And SLider
+----------------------------------------*/
+    
+    #header_one .logo {
+        border: medium none;
+        padding: 20px 0;
+        text-align: center;
+        width: 100%;
+    }
+    #header_one .logo::before {
+        left: 110%;
+        width: 0%;
+    }
+    #header_one .logo::after {
+        margin-right: 120px;
+    }
+    #header_one .logo a {
+        margin-top: 0px;
+        display: inline-block;
+    }
+    #header_one .header-info {
+        width: 100%;
+        margin-bottom: 0px;
+    }
+
+    #navigation > ul > li > a {
+        padding: 30px 10px;
+    }
+	.header-right ul {
+    padding-left: 0px;
+}
+	
+
+/*---- Slider----- */
+    /*--------------------------------------
+   chooseus
+----------------------------------------*/
+    
+    .chooseus-item {
+        margin-left: 34px;
+        padding-right: 50px;
+    }
+    /*--------------------------------------
+   video Section     
+----------------------------------------*/
+    
+    .play-video {
+        left: 50%;
+    }
+    .video-content p {
+        margin-left: 529px;
+    }
+    .video-content h2 {
+        font-size: 29px;
+    }
+    /*--------------------------------------
+   chooseus
+----------------------------------------*/
+    
+    .testimonials-section .base-header {
+        width: 60%;
+    }
+    /*--------------------------------------
+   Blog Section
+----------------------------------------*/
+    
+    .post-format {
+        top: 83%;
+    }
+    .work-section .col-sm-4,
+    .work-section .col-sm-3 {
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-bottom: -6px;
+    }
+	
+	.portfolio_mas-section .base-header {
+    width: 50%;
+}
+}
+/*                      Tablet Portrait
+=======================================================================================*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /*--------------------------------------
+   Header And SLider
+----------------------------------------*/
+#navigation > ul > li > a {
+    padding: 30px 8px;
+} 
+#navigation > ul {
+    margin-left: 176px;
+}
+.navigation .logo::after {
+    display: none;
+}
+.navigation .logo::before {
+    background: transparent;
+}
+.navigation .logo {
+    background:transparent;
+}
+    #header_one .logo {
+        border: medium none;
+        padding: 20px 0;
+        text-align: center;
+        width: 100%;
+    }
+    #header_one .logo::before {
+        left: 110%;
+        width: 0%;
+    }
+    #header_one .logo::after {
+        margin-right: 120px;
+    }
+    #header_one .logo a {
+        margin-top: 0px;
+        display: inline-block;
+    }
+    #header_one .header-info {
+        width: 100%;
+        margin-bottom: 0px;
+    }
+    #header_one .header-info ul {
+        text-align: left;
+        padding-left: 0px;
+    }
+    #header_one .header-info ul li {
+        border-right: 1px solid transparent;
+    }
+
+    .header-right {
+        display: none;
+    }
+    .base-header {
+        width: 80%;
+    }
+	
+/*---- Slider----- */
+.single_slider p {
+   padding: 0px 60px; 
+}
+.single_slider .slider_item_tbcell {
+    text-align:center;
+}
+ 
+/*---- Slider----- */
+
+    /*--------------------------------------
+ promotion
+----------------------------------------*/
+.promotion_one_rt h3 {
+    margin-top: -5px;
+    margin-bottom: 2px;
+}
+.about-section {
+    padding-bottom: 80px;
+}
+.about-left h3 {
+    letter-spacing: 4px;
+    font-size: 31px;
+}
+
+
+    /*--------------------------------------
+   chooseus
+----------------------------------------*/
+#accordion section.ac_hidden {
+    height: 70px;
+}
+.chooseus-section{
+	padding-bottom:70px;
+}
+    /*--------------------------------------
+   get-touch
+----------------------------------------*/
+    
+    .get-touch-button {
+        padding: 98px 60px;
+    }
+    .get-touch-section .more-link {
+        padding: 14px 24px;
+    }
+    /*--------------------------------------
+   video Section     
+----------------------------------------*/
+    
+    .video-content p {
+        margin-left: 0px;
+        float: none;
+        margin-top: 0px;
+    }
+    .video-content {
+        text-align: center;
+    }
+    .play-video {
+        left: 50%;
+        margin-left: -26px;
+        margin-top: -56px;
+    }
+    #video {
+        padding-top: 159px;
+    }
+	.video-content {
+    margin-top: 10px;
+}
+    /*--------------------------------------
+   portfolio
+----------------------------------------*/   
+.portfolio_mas-section .base-header {
+    width: 76%;
+}
+#portfolio {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+}
+
+
+ /*--------------------------------------
+   pricing
+----------------------------------------*/
+    
+    .pricing-box {
+        padding: 40px 20px;
+    }
+    .pricing-box h2 {
+        font-size: 40px;
+    }
+    .pricing_buton {
+        left: 22px;
+    }
+    .pricing_buton .more-link {
+        padding: 12px 15px;
+    }
+    /*--------------------------------------
+   Client Section
+----------------------------------------*/  
+.testimonials-section .col-sm-6 {
+    width:100%;
+}
+.client_warp .col-md-4 {
+    padding-right: 0px;
+    padding-left: 0px;
+    float: left;
+    width: 16%;
+}
+.client_warp {
+    margin-top: 50px;
+    margin-bottom: -10px;
+}
+.testimonials-section .testimonial-box .cus-title {
+    margin-left: -80px;
+}
+  /*--------------------------------------
+   Blog Section
+----------------------------------------*/
+    
+    .post-format {
+        top: 76%;
+    }
+    /*--------------------------------------
+   contact Section
+----------------------------------------*/
+    
+    .contact-section .base-header p {
+        width: 94%;
+    }
+	
+    /*--------------------------------------
+   Blog Page 
+-----------------------------------------*/	
+.blog-area {
+    padding-right: 20px;
+}	
+
+
+    /*--------------------------------------
+   Shop Page 
+-----------------------------------------*/	
+.grand-total-area {
+    margin-top: 30px;
+}
+.estimate-ship {
+    margin-top: 30px;
+}
+
+}
+/*                          Phone
+=======================================================================================*/
+
+@media only screen and (max-width: 767px) {
+    /*--------------------------------------
+   Header And SLider
+----------------------------------------*/
+    .header_topbar {
+    display: none;
+}
+.navigation .logo::after {
+    display: none;
+}
+.navigation .logo::before {
+    background: transparent;
+}
+.navigation .logo {
+    background: transparent;
+}
+    #header_one .logo {
+        border: medium none;
+        padding: 3px 0;
+        text-align: center;
+        width: 100%;
+        height: 70px;
+    }
+    #header_one .logo::before {
+        left: 110%;
+        width: 0%;
+    }
+    #header_one .logo::after {
+        /*! margin-right: 120px; */
+        
+        display: none;
+    }
+    #header_one .logo a {
+        margin-top: 0px;
+    }
+    #header_one .header-info {
+        display: none;
+        /*! margin-bottom:0px; */
+    }
+.header-right {
+    float: none !important;
+    margin-top: -28px;
+    left: 100px;
+    top: 31px;
+    position: absolute;
+}
+.header-right .search_icon, .header-right .language-cart{
+	display: none;
+}
+.header-right .header-cart{
+    margin-left: 42px;
+}
+.header-right > ul > li > a {
+    padding: 10px 0px;
+}
+    .topp-cart {
+        padding: 20px;
+        right: -166px;
+        top: 107%;
+        width: 270px;
+    }
+
+    .header-setting {
+        top: 107%;
+        right: -78px;
+    }
+
+#navigation.small-screen ul {
+    margin-top: 13px;
+}
+#navigation.small-screen #menu-button {
+    padding: 23px;
+    margin-top: 15px;
+}
+    #navigation > ul > li > a {
+        padding: 16px 20px;
+    }
+    #navigation > ul > li.has-sub > a {
+        padding: 16px 20px;
+    }
+	
+	
+/*---- Slider----- */
+.single_slider h2 {
+    font-size: 30px;
+}
+.single_slider {
+    font-size: 15px;
+}
+.slider_home .owl-nav {
+    margin-top:-60px;
+    text-align: center;
+}
+.slider_home .owl-nav div.owl-next, .slider_home .owl-nav div {
+    left: auto;
+    margin: 10px;
+    right: auto;
+}
+.slider_home .owl-nav div {
+    color: #fff;
+    display: inline-block;
+    position: relative;
+}
+.single_slider .slider_item_tbcell {
+    text-align:center;
+}
+.slider_btn_two {
+    margin-left: 0px;
+}
+/*---- Slider----- */
+
+
+
+
+    .base-header {
+        width: 100%;
+    }
+    .base-header h3 {
+        line-height: 40px;
+    }
+.blog-header {
+    padding-left: 0px;
+}	
+.blog-header h3 {
+    line-height: 43px;
+}	
+.shop_setting_inr {
+    right: -101px;
+    top: 104%;
+}
+.headr_btom_cart {
+    right:-42px;
+    top: 129%;
+    width: 273px;
+}
+.header-right ul li i:hover {
+    color: #fff;
+}
+.cart-button ul li a {
+    width: 111px;
+}
+.cart-inner {
+    background: #fff;
+	left: -4px;
+}
+.header-cart i {
+    padding-right: 0px;
+}
+    /*--------------------------------------
+   about section
+----------------------------------------*/
+.about-section {
+    padding-bottom: 80px;
+}
+    .about-right img {
+        margin-left: 0px;
+    }
+.about-left h3 {
+    letter-spacing: 0px;
+    font-size: 31px;
+}
+    /*--------------------------------------
+ promotion
+----------------------------------------*/
+.promotion_one_rt h3 {
+    font-size: 25px;
+    letter-spacing: 2px;
+    margin-top: -5px;
+    margin-bottom: 2px;
+}    
+
+
+/*--------------------------------------
+ Service
+----------------------------------------*/
+.service-item {
+    margin-bottom: 0px;
+}
+.service-section {
+    padding-bottom: 45px;
+}
+
+
+/*--------------------------------------
+ Facts
+----------------------------------------*/
+.about_proj .col-sm-4 {
+    text-align: center;
+}
+/*--------------------------------------
+ Offer
+----------------------------------------*/
+.whoffer-section .owl-controls .owl-nav div {
+    top: 34%;
+}
+.whoffer-list .whoffer-info {
+    padding: 0px 15px;
+}
+
+    /*--------------------------------------
+   chooseus
+----------------------------------------*/
+    .chooseus-item {
+        margin-bottom: 70px;
+    }
+    .chooseus-item .chooseus-content {
+        float: right;
+        width: 100%;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 20px;
+        text-align: center;
+    }
+    .chooseus-item .chooseus-icon {
+        left: 0px;
+        width: 100%;
+        top: -63px;
+    }
+    .chooseus-left {
+        text-align: center;
+    }
+	
+	#accordion h2 {
+    font-size: 15px;
+    letter-spacing:0px;
+    line-height: 1.2;
+}
+#accordion section.ac_hidden {
+    height: 56px;
+    margin-bottom: 10px;
+}
+    /*--------------------------------------
+   video Section     
+----------------------------------------*/
+    
+    .video-content p {
+        margin-left: 0px;
+        float: none;
+        margin-top: -8px;
+    }
+    .video-content {
+        text-align: center;
+		margin-top: 30px;
+    }
+    .play-video {
+        left: 50%;
+        margin-left: -26px;
+        margin-top: -56px;
+    }
+    #video {
+       padding-top: 140px;
+padding-bottom: 48px;
+    }
+    .video-content h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    /*--------------------------------------
+   pricing
+----------------------------------------*/
+    
+    .pricing-section {
+        padding-bottom: 60px;
+    }
+    .pricing-box {
+        padding: 40px 30px;
+        margin-bottom: 60px;
+    }
+    .pricing-box h2 {
+        font-size: 40px;
+    }
+    .pricing_buton {
+        left: 26px;
+        bottom: 40px;
+    }
+    .pricing_buton .more-link {
+        padding: 12px 15px;
+    }
+    /*--------------------------------------
+   work Section
+----------------------------------------*/
+    .portfolio_mas-section .base-header {
+    width: 95%;
+}
+.portfolio_mas-section .btn{
+    margin-bottom: 10px;
+}
+#portfolio {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+}
+.portfolio_mas-section .scale-anm {
+    margin-bottom: 0px;
+	margin-left: 8px;
+}
+.toolbar.mb2.mt2 {
+    margin-bottom: 40px;
+}
+
+.project-filter ul {
+    text-align: left;
+}
+.project-filter ul li {
+    margin-bottom: 10px;
+}
+    /*--------------------------------------
+   testimonial Section
+----------------------------------------*/
+    
+    .testimonials-section .base-header h3 {
+        letter-spacing: 0px;
+        font-size: 36px;
+    }
+    .testimonials-section .testimonial-box .cus-title {
+        margin-left: 0px;
+    }
+    /*--------------------------------------
+    client Section 
+----------------------------------------*/
+.client_warp {
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.client_warp .col-md-4 {
+    width: 50%;
+    float: left;
+}
+.client-box {
+    padding-top: 0px;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+.client-box img{
+    width: 100%;
+}
+    /*--------------------------------------
+   Blog Section
+----------------------------------------*/
+    
+    .post-format {
+        top: 81%;
+    }
+    .blog_tx_warp {
+        margin-bottom: 15px;
+    }
+    /*--------------------------------------
+   contact Section
+----------------------------------------*/
+    
+    .contact-section .base-header p {
+        width: 100%;
+    }
+    .contact-section {
+        padding-bottom: 0px;
+    }
+	
+    /*--------------------------------------
+   footer Section
+----------------------------------------*/
+    .footer-section .subfooter .col-xs-6,
+    .footer-section .subfooter .col-xs-6 {
+        width: 100% !important;
+    }
+    .subfooter p {
+    float: none;
+    margin-bottom: 0px;
+}
+.scrollup {
+    float: none;
+    line-height: 35px;
+}
+    footer .recent-post li a {
+        font-size: 14px;
+    }
+    .footer-section .widget h5 {
+        margin-bottom: 22px;
+    }
+    .footer-section .col-xs-2 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .footer-section .widget .col-xs-11 {
+        padding-left: 0px;
+    }
+ 
+	.footer-section .list-icons {
+    margin-left: 0px;
+}
+    /*--------------------------------------
+   Blog Page 
+-----------------------------------------*/	
+.blog-area {
+    padding-right: 15px;
+}
+.contact .blog-contact .contact-warper {
+    padding-bottom: 0px;
+}
+ 
+ .single_blog_container {
+     margin-bottom: 0px;
+ }
+ 
+    /*--------------------------------------
+   About Page 
+-----------------------------------------*/	
+.testimonial_pg .testimonial-box p {
+    padding: 30px 30px;
+}
+
+
+    /*--------------------------------------
+   portfolio Page 
+-----------------------------------------*/	
+.portfolio-single-detail {
+    padding-left: 0px;
+}
+.portfolioitem .carousel-control {
+    top: 32%;
+}	
+
+    /*--------------------------------------
+   Shop Page 
+-----------------------------------------*/	
+.shop_select{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.big-title h2 {
+    font-size: 28px;
+    letter-spacing: 1px;
+}
+.pager li a {
+    padding: 2px 3px;
+}
+.pager li {
+    padding: 0 0px;
+}
+.pagination .pager {
+    margin: 10px 0px;
+}
+
+.grand-total-area {
+    margin-top: 30px;
+}
+.estimate-ship {
+    margin-top: 30px;
+}
+
+.pro-checkout.text-uppercase {
+    font-size: 13px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+a.app-coupon, a.get-quote {
+    width: 50%;
+}
+
+.allproduct-info {
+    margin-left: 0px;
+    margin-top: 40px;
+}
+.shop-product-area li .adtocart {
+    padding: 0 20px;
+}
+.tgs {
+    margin-top: 24px;
+}
+.detail .category, .tags {
+    margin-top: 5px;
+}
+.categories-area ul li {
+    margin-top: 5px;
+}
+.detail .product-menu > ul > li > a::after {
+    background: transparent;
+}
+
+ 
+.custom-next.slick-arrow{
+	    top: 23%;
+}
+.custom-prev.slick-arrow{
+	    top: 23%;
+}
+
+}
+/* Mobile Vertical Layout: 488px 
+===============================================================================*/
+
+@media only screen and (min-width: 488px) and (max-width: 767px) {
+	
+/*---- Slider----- */
+.single_slider h2 {
+    font-size: 40px;
+}
+.single_slider {
+    font-size: 17px;
+	text-align: center;
+}
+/*---- Slider----- */
+
+
+    /*--------------------------------------
+    About Section 
+----------------------------------------*/
+    
+    .about_proj .col-xs-12 {
+        width: 33%;
+    }
+    .about-right {
+        text-align: center;
+    }
+    /*--------------------------------------
+    client Section 
+----------------------------------------*/
+.client-box {
+    padding: 5px;
+}
+ .client_warp .col-md-4 {
+    width: 33.33%;
+}
+    /*--------------------------------------
+    pricing Section 
+----------------------------------------*/
+    .pricing-section {
+    padding-bottom: 86px;
+}
+    .pricing-section .col-xs-12 {
+        width: 50%;
+    }
+	.pricing-box {
+    margin-bottom: 10px;
+}
+    /*--------------------------------------
+    work Section 
+----------------------------------------*/
+    
+    .work-section .project-list .col-xs-12 {
+        width: 50%;
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-bottom: -5px;
+    }
+#portfolio {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
+.portfolio_mas-section .scale-anm {
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+.work-section .project-list .col-xs-12 {
+    padding-right: 3px;
+    padding-left: 2px;
+}
+.project-filter ul {
+    text-align: center;
+}
+    /*--------------------------------------
+    Footer Section 
+----------------------------------------*/
+    .footer-section .col-xs-2 {
+        width: 8.667%;
+    }
+    .recent-post li {
+        border-color: transparent;
+    }
+	
+    /*--------------------------------------
+   Blog Page 
+-----------------------------------------*/	
+.blog-area .col-sm-6.col-xs-12 {
+   width: 50%;
+}	
+
+    /*--------------------------------------
+   Shop Page 
+-----------------------------------------*/	
+.shop-wrapper .col-xs-12 {
+   width: 50%;
+}
+ 
+.single-thumbnail-big .slick-slide img {
+    min-width: 60%;
+    max-width: 60%;
+	margin:0 auto
+}	
+
+.custom-prev.slick-arrow {
+    top: 29%;
+}
+.custom-next.slick-arrow{
+	    top: 29%;
+}
+
+
+}

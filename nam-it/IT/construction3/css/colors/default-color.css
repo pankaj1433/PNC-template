@@ -1,0 +1,381 @@
+
+.base-header h3::before,
+.base-header h3::after {
+     position: absolute;
+     content: "";
+     background-color: #FFBC13;
+ }
+  .ylow_clr {
+     color: #FFBC13;
+ }
+  .more-link {
+     background: #FFBC13;
+ }
+ 
+ .owl-nav div:hover {
+	background:#FFBC13;
+    border: 2px solid #FFBC13;	
+}
+ 
+  .navigation .logo::before {
+     background: #FFBC13;
+ }
+  .navigation .logo::after {
+     background: #FFBC13 url(../../images/logo_bg.png) no-repeat;
+ }
+  .navigation .logo {
+     background: #FFBC13;
+ }
+  .cart-inner {
+     background: #FFBC13;
+ }
+ 
+  .search_icon_inr .btn-search {
+     background: #FFBC13;
+ }
+  .cart-title:hover {
+     color: #FFBC13;
+ }
+ 
+  .header-cart .action i:hover {
+     color: #FFBC13;
+ }
+  .header-right ul li i:hover {
+     color: #FFBC13;
+ }
+  .shop_setting_inr a:hover {
+     color: #FFBC13;
+ }
+  .cart-button ul li a {
+     border: 1px solid #FFBC13;
+     background: #FFBC13;
+ }
+ 
+  .navigation {
+     border-bottom: 2px solid #FFBC13;
+ }
+ 
+  #navigation > ul > li > .active {
+     color: #FFBC13;
+ }
+ 
+  #navigation > ul > li:hover > a {
+     color: #FFBC13;
+ }
+  #navigation ul ul li a {
+     border-bottom: 1px solid #FFBC13;
+ }
+  #navigation ul ul li:hover > a,
+ #navigation ul ul li a:hover {
+     color: #FFBC13;
+ }
+ 
+ .slider_home span {
+ color: #FFBC13;
+}
+.slider_btn a {
+    border: 1px solid #FFBC13;
+}
+.slider_btn_one {
+    background: #FFBC13;
+}
+ .slider_btn_one:hover {
+	border: 1px solid #FFBC13;
+} 
+.slider_btn_two:hover {
+    background: #FFBC13;
+}
+
+.slides__preload_wrapper {
+    background: #FFBC13 none repeat scroll 0 0;
+}
+  .widget_mailchimp .mc-embedded-subscribe {
+     background: #FFBC13;
+ }
+ .promotion_one{
+	background: #FFBC13;
+}
+ .about-section .carousel-control {
+    color:#FFBC13;
+}
+.about-section .carousel-control:hover{
+	color:#FFBC13;
+}
+ .service-section .icon-serv::before {
+     background: #FFBC13;
+ }
+  .service-section .row .service-item:hover .serv-left {
+     color: #FFBC13;
+ }
+ .whoffer-mask a {
+    color: #FFBC13;
+}
+ #accordion section:not(.ac_hidden) h2 {
+  background-color:#FFBC13;
+}
+ 
+  .play-video {
+     border: 1px solid #FFBC13;
+     background: #FFBC13;
+ }
+ .project-filter ul li.hvr-underline-from-center.active:before {
+  background:  #FFBC13;
+}
+
+
+.project_menu .hvr-underline-from-center::before {
+  background: #FFBC13;
+}
+ .project-filter ul li {
+    border: 2px solid #FFBC13;
+}
+ .project-filter ul li.active {
+    background: #FFBC13;
+}
+ .mask2 h4 {
+    color: #FFBC13;
+}
+  .testimonials-section .testimonial-box .cus-title::before {
+     color: #FFBC13;
+ }
+  .testimonials-section .owl-theme .owl-controls .owl-dot.active span {} .testimonials-section .owl-theme .owl-controls .owl-dot span {
+     color: #FFBC13;
+ }
+  .scrollup {
+     color: #FFBC13;
+ }
+  .member .info {
+     border-top: 2px solid #FFBC13;
+     background: #FFBC13;
+ }
+  .member .social i {
+     color: #FFBC13 !important;
+ }
+  
+.team-section .owl-nav div {
+	background:#FFBC13;
+    border: 2px solid #FFBC13;
+}
+  .contact-form #contact-form .con-field,
+ .contact-form #comment-form .con-field,
+ .comment-form #contact-form .con-field,
+ .comment-form #comment-form .con-field {
+     border-color: -moz-use-text-color -moz-use-text-color #FFBC13;
+ }
+ 
+  .contact-form #contact-form #submit-contact,
+ .contact-form #comment-form #submit-contact,
+ .comment-form #contact-form #submit-contact,
+ .comment-form #comment-form #submit-contact {
+     background: #FFBC13;
+ }
+ 
+  .pager li a {
+     border: 1px solid #FFBC13;
+     background: #FFBC13;
+ }
+ 
+  .widget-search .input-group button {
+     color: #FFBC13;
+ }
+  .widget .widget-title {
+     color: #FFBC13;
+     background: #F9F9F9;
+ }
+  .widget-tags > a:hover {
+     color: #FFBC13;
+     border-color: #FFBC13;
+ }
+  .blog-post-list .more-link {
+     background: #FFBC13;
+ }
+ 
+ .comments li .comment span.comment-reply a {  
+     border: 1px solid #FFBC13;
+ }
+  .comments li .comment span.comment-reply a:hover {
+     background: #FFBC13;
+ }
+  .form-control:focus {
+     border: 1px solid #FFBC13;
+     border-bottom: 3px solid #FFBC13;
+ }
+  #contactForm .submit-button:hover {
+     color: #FFBC13;
+     border: 3px solid #FFBC13;
+ }
+ #contactForm .submit-button {
+     background: #FFBC13;
+     border: 3px solid #FFBC13;
+ }
+  .post-option .prev-post:hover,
+ .post-option .next-post:hover {
+     color: #FFBC13;
+ }
+ .post-option .middle-icon a {
+     color: #FFBC13;
+ }
+ 
+  .portfolioitem .carousel-control {
+     background: #FFBC13;
+ }
+  .social-icons > li > a i:hover {
+     color: #FFBC13
+ }
+ .product-tag {
+    background-color: #FFBC13;
+}
+  .shop-item .magnifier .buttons a {
+     background: #FFBC13;
+ }
+  .cat-rating .fa.fa-star {
+     color: #FFBC13;
+ }
+ 
+  .product_tags .tag a:hover {
+     background-color: #FFBC13;
+
+ }
+ 
+  .tittle_product .next_prev a span {
+
+     background: #FFBC13;
+
+ }
+  .star.yes {
+     color: #FFBC13;
+ }
+ 
+  .detail .content span {
+     color: #FFBC13;
+ }
+  .shop-product-area li .adtocart {
+     border: 2px solid #FFBC13;
+     color: #FFBC13;
+ }
+ .shop-product-area li .adtocart:hover {
+     background: #FFBC13;
+ }
+ .shop-product-area .heart {
+     border: 2px solid #FFBC13;
+     color: #FFBC13;
+ }
+ .shop-product-area .heart:hover {
+     background: #FFBC13;
+ }
+  .share-area i {
+     background: #FFBC13;
+ }
+  a.app-coupon:hover,
+ a.get-quote:hover {
+     background: #FFBC13;
+ }
+  .grand-total span.amt {
+     color: #FFBC13;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

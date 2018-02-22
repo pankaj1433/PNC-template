@@ -1,0 +1,136 @@
+/*==========================
+	Custom css
+==========================*/
+/*Meet & ask section css*/
+
+.meet-ask-outer {
+    overflow-x: hidden;
+    margin-top: -50px;
+	width:100%;
+}
+.meet-ask-row > .row {
+    position: relative;
+    z-index: 2;
+}
+.meet-ask-row:after {
+    content: "";
+    width: 1920px;
+    height: 100%;
+    border-right: 7px solid #2b3036;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+    -moz-transform: skewX(35deg);
+    -webkit-transform: skewX(35deg);
+    -o-transform: skewX(35deg);
+    -ms-transform: skewX(35deg);
+    transform: skewX(35deg);
+    box-shadow: 0 0 12px -5px #000;
+    -webkit-box-box-shadow: 0 0 12px -5px #000;
+}
+@media only screen and (max-width: 1200px) {
+    .meet-ask-row:after {
+        right: -50px;
+        -moz-transform: skewX(30deg);
+        -webkit-transform: skewX(30deg);
+        -o-transform: skewX(30deg);
+        -ms-transform: skewX(30deg);
+        transform: skewX(30deg);
+    }
+}
+@media only screen and (max-width: 991px) {
+    .meet-ask-outer {
+        margin-top: -20px;
+    }
+    .meet-ask-row:after {
+        right: 50px;
+        -moz-transform: skewX(20deg);
+        -webkit-transform: skewX(20deg);
+        -o-transform: skewX(20deg);
+        -ms-transform: skewX(20deg);
+        transform: skewX(20deg);
+    }
+    .meet-ask-row .icon-bx-wraper {
+        padding-right: 60px;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .meet-ask-outer {
+        margin-top: 0;
+    }
+    .meet-ask-row:after {
+        right: 0;
+        border-right: none;
+        -moz-transform: skewX(0deg);
+        -webkit-transform: skewX(0deg);
+        -o-transform: skewX(0deg);
+        -ms-transform: skewX(0deg);
+        transform: skewX(0deg);
+    }
+    .meet-ask-row .icon-bx-wraper {
+        padding-right: 0;
+    }
+    .meet-ask-row .site-button-secondry.m-l10 {
+        margin: 0 0 5px;
+    }
+    .meet-ask-row .site-button-secondry.m-l20 {
+        margin: 0 0 5px;
+    }
+}
+/*home page css*/
+
+.provider-box-bg {
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid #e0e0e0;
+    height: 480px;
+    transition: all 4s linear 0s;
+    display: block;
+    box-shadow: 5px 5px 0 0 #e0e0e0;
+}
+.provider-box-bg:hover {
+    background-position: center bottom;
+}
+.home-footer {
+    background: #2d313a;
+}
+.top-btn a {
+    background: #f0ba22;
+    border: 10px solid #2d313a;
+    width: 65px;
+    height: 65px;
+    display: block;
+    margin: 0px auto;
+    color: #fff;
+    text-align: center;
+    line-height: 45px;
+    font-size: 20px;
+    transform: rotate(45deg);
+    margin: -62px auto 0;
+}
+.top-btn a i {
+    transform: rotate(-45deg);
+}
+/* Home 3 And 4 */
+
+.no-skew .social-bx.list-inline.pull-left {
+    margin-left: 0;
+}
+@media only screen and (max-width: 1024px) {
+    .extra-nav .extra-cell {
+        margin-right: 2px;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .no-skew .social-bx.list-inline.pull-left {
+        display: none;
+    }
+}
+
+
+/* overlay bg image */
+.overlay-bg{ background-image:url(../images/overlay/dotted.png) }
+

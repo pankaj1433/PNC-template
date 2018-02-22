@@ -1,0 +1,136 @@
+/* 
+    Document   : styleSwitcher
+    Created on : 11.08.2012., 16:41:51
+    Author     : Pixel Industry
+    Description:
+        Stylesheet for StyleSwitcher
+*/
+
+#style-switcher{
+    position: fixed;
+    left: -230px;
+    top: 80px;
+    background: #fff;
+    width: 230px;
+    height: 180px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-top: 1px solid #ddd;
+    z-index: 12500;
+}
+
+.elvyre-boxed a, 
+.elvyre-stretched a{
+   background: #eee;
+   padding: 10px 15px;
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    font-size: 13px;
+    color: #333;
+}
+
+.elvyre-boxed.active a, 
+.elvyre-stretched.active a{
+    background: #727c89;
+    color: #fff;
+    font-weight: 600;
+    padding: 10px 15px;
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.elvyre-boxed.active a:hover,
+.elvyre-stretched.active a:hover{
+    color: #fff !important;
+}
+
+#style-switcher #styles-container{
+    padding: 25px;
+}
+
+#style-switcher #styles-container section{
+    margin-bottom: 25px;
+    margin-top: 5px;
+    position: relative;
+}
+
+#style-switcher h6{
+    font: 13px Arial, sans-serif;
+    line-height: 20px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 3px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #555;
+    text-transform: none;
+}
+
+#style-switcher p{
+    font: 12px Arial, sans-serif;
+    margin-bottom: 10px;
+}
+
+
+#style-switcher #styles-button{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 20px;
+    right: -40px;
+    background: #333;
+
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 5px;
+    box-shadow: 2px 2px 2px #222;
+}
+
+#style-switcher #styles-button #switcher-logo{
+    background: url('img/logo.png') no-repeat;
+    width: 30px;
+    height: 30px;
+}
+
+#style-switcher .styles-list{
+    overflow: hidden;
+}
+
+#style-switcher .styles-list li{
+    float: left;
+    width: 25px;
+    height: 25px;
+
+    text-indent: -9999px;
+    margin: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+#style-switcher .styles-list li:hover{
+    opacity: 0.9;
+}
+
+#style-switcher select{
+    background: #f8f8f8;
+    border: 1px solid #AAA;
+    color: #555;
+    font: 12px 'Droid Sans';
+    margin: 0;
+    overflow: hidden;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 120px;
+}
+
+/*************************
+    CUSTOM THEME STYLES
+**************************/
+

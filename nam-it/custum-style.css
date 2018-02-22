@@ -1,0 +1,212 @@
+body{
+font-family: 'Montserrat', sans-serif;
+}
+
+#background{
+background:url(images/background.png);
+background-repeat:no-repeat;
+min-height: 636px;
+background-size:cover;
+}
+.logo img{
+margin: 0 auto;
+}
+.title h3{
+font-size: 22px;
+    text-align: center;
+    font-weight: 500;
+	margin-top: 39px;
+    color: #676767;
+    font-family: 'Montserrat', sans-serif;
+}
+.logo{
+margin-top: 19px;
+    margin-bottom: 7px;
+	}
+.social{
+    margin-top: 27px;
+	}
+.smGlobalBtn { /* global button class */
+ display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 43px;
+    height: 43px;
+    border: 2px solid #ddd;
+    box-shadow: 0 3px 3px #999;
+    padding: 0px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    font-size: 22px;
+    font-weight: normal;
+    line-height: 40px;
+    border-radius: 27px;
+    -moz-border-radius: 27px;
+    -webkit-border-radius: 27px;
+}
+
+/* facebook button class*/
+.facebookBtn{
+    background: #4060A5;
+}
+
+.facebookBtn:before{ /* use :before to add the relevant icons */
+    font-family: "FontAwesome";
+    content: "\f09a"; /* add facebook icon */
+}
+
+.facebookBtn:hover{
+    color: #4060A5;
+    background: #fff;
+    border-color: #4060A5; /* change the border color on mouse hover */
+	    text-decoration: none;
+}
+
+/* twitter button class*/
+.twitterBtn{
+    background: #00ABE3;
+}
+
+.twitterBtn:before{
+      font-family: "FontAwesome";
+      content: "\f099"; /* add twitter icon */
+      
+}
+
+.twitterBtn:hover{
+      color: #00ABE3;
+      background: #fff;
+      border-color: #00ABE3;
+	      text-decoration: none;
+}
+
+/* google plus button class*/
+.googleplusBtn{
+    background: #e64522;
+}
+
+.googleplusBtn:before{
+      font-family: "FontAwesome";
+      content: "\f0d5"; /* add googleplus icon */
+}
+
+.googleplusBtn:hover{
+      color: #e64522;
+      background: #fff;
+      border-color: #e64522;
+	      text-decoration: none;
+}
+
+/* linkedin button class*/
+.linkedinBtn{
+    background: #0094BC;
+}
+
+.linkedinBtn:before{
+      font-family: "FontAwesome";
+      content: "\f0e1"; /* add linkedin icon */
+}
+
+.linkedinBtn:hover{
+      color: #0094BC;
+      background: #fff;
+      border-color: #0094BC;
+	      text-decoration: none;
+}
+
+/* pinterest button class*/
+.pinterestBtn{
+    background: #cb2027;
+}
+
+.pinterestBtn:before{
+      font-family: "FontAwesome";
+      content: "\f0d2"; /* add pinterest icon */
+}
+
+.pinterestBtn:hover{
+      color: #cb2027;
+      background: #fff;
+      border-color: #cb2027;
+	      text-decoration: none;
+}
+a:hover, a:focus {
+    color: #ffffff;
+    text-decoration: none!important;
+}
+.footer-des{
+margin-top: 26px;
+}
+.footer-des p{
+color: #4e4e4e;
+}
+.footer-des a:hover{
+color: #4e4e4e;
+text-decoration:none;
+}
+
+a .img-caption{
+background: rgba(255, 255, 255, 0.55);
+    margin-top: -118px;
+    position: absolute;
+    padding: 8px 23px;
+    font-size: 18px;
+    color: #171717;
+    font-weight: 600;
+    width: 100%;
+    text-transform: uppercase;
+	-webkit-transition: width 2s; /* Safari */
+    transition: width 2s;
+	    text-align: center;
+}
+/*a .img-caption:hover{
+color:#000066;
+width:245px;
+overflow: auto;
+}*/
+.web-images:hover{
+box-shadow: 2px 3px 7px 2px #a2a2a2;
+transition:.3s;
+}
+
+
+.zoom-effect-container {
+    float: left;
+    position: relative;
+    
+margin: 5px 0;
+    overflow: hidden;
+}
+
+.image-card {
+  top: 0;
+  left: 0;
+  
+}
+
+.image-card img {
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+
+.zoom-effect-container:hover .image-card img {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+}
+
+.img-section{
+    min-height: 192px;
+	}
+@media screen and (max-width: 768px) {
+ a .img-caption{
+font-size: 14px;
+    margin-top: -44px;
+	    width: 164px;
+}
+}
+
+
+
+
+ 

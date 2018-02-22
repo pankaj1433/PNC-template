@@ -1,0 +1,1126 @@
+@media only screen and (max-width:767px) {
+.mailchimp-expert-help .nav-tabs > li {
+	width: 100%;
+	margin-bottom: 10px;
+}
+.mailchimp-expert-help .nav-tabs > li > a {
+	margin: 0;
+	padding: 5px;
+}
+.mailchimp-expert-help .nav-tabs > li > a > br {
+	display:none;
+}
+.mail-expert-service {
+	font: 20px/28px "mulibold",Arial,Helvetica,sans-serif !important;
+}
+.mailchimp-expert-intro-cont h3 {
+	font-size:22px;
+	margin-bottom:20px;
+}
+.recommend_box h3 {
+	font-size: 18px;
+}
+.recommend_box {
+	padding: 15px;
+	margin-bottom: 15px;
+}
+.learnmore {
+	margin-bottom:20px;
+}
+.sign-box {
+	padding: 15px;
+	min-height: auto;
+	margin-bottom: 15px;
+}
+.third_step_inn_free img {
+	width: 100%;
+	top: 0;
+	left: -20px;
+}
+.third_step_inn .label_head {
+	padding: 10px 0;
+	font: 15px/19px "mulisemibold", Arial, Helvetica, sans-serif;
+}
+.third_step h3 {
+	font: 15px/19px "mulisemibold", Arial, Helvetica, sans-serif;
+}
+.tab_content {
+	padding: 15px;
+}
+.mp-menu, .scroller {
+	display: block;
+}
+.navbar-toggle {
+	display: none;
+}
+.left_fix, .right_fix {
+	display: none;
+}
+.navbar::after {
+	border-bottom: 0;
+}
+.navbar-brand {
+	float: left;
+	font-size: 18px;
+	height: auto;
+	line-height: 20px;
+	margin: 0 0 0 38px;
+	padding: 0;
+}
+.integrationbox {
+	margin: 30px 0;
+}
+.landing_banner {
+  text-align: center;
+}
+.landing_banner h1 {
+	font-size: 22px;
+	line-height: 28px;
+}
+.landing_banner h2 {
+	font-size: 18px;
+	line-height: 22px;
+}
+.landing_banner h3 {
+	font-size: 16px;
+	line-height: 20px;
+}
+.benifite_wrap h1 {
+	font: 24px/32px "mulibold", Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.benifite_wrap h3 {
+	font: 22px/28px "mulibold", Arial, Helvetica, sans-serif;
+}
+.faq_table {
+	width: 100%;
+}
+.item {
+	height: auto;
+}
+.item-text {
+	display: none;
+}
+.item-img {
+	height: 100%;
+	overflow: visible;
+}
+.highlight-word {
+	background: none;
+}
+.grid-item {
+	width: 50%;
+	height: 100px;
+}
+.navbar-default .navbar-toggle {
+	border-color: transparent;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+	background-color: transparent;
+}
+.blog-caption {
+	display: none;
+}
+.navbar-default .navbar-nav > li.phone_no > a {
+	padding: 0 0 10px 0;
+	font: 20px/normal "mulibold", Arial, Helvetica, sans-serif !important;
+}
+.pricing-process-module div.pricing-process-box {
+	font: 15px/45px "muliregular", Arial, sans-serif;
+}
+.third_step h3 {
+	float: left;
+	width: 100%;
+}
+.btn_prev, .btn_next {
+	margin: 20px auto 0;
+	vertical-align: top;
+}
+.delivery_box .packagebox aside span h4 {
+	color: #000;
+	font: 13px/24px "muliregular", Arial, Helvetica, sans-serif;
+	margin: 7px 0;
+}
+.delivery_box {
+	margin: 10px auto;
+}
+p {
+	font-size: 14px;
+}
+.navbar-default .navbar-nav > li > a, #mainmenu.affix .navbar-nav > li > a {
+	color: #000000;
+	font: 16px/18px "muliregular", Arial, Helvetica, sans-serif;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+#mainmenu.affix .navbar-brand a {
+	padding: 30px 15px;
+}
+.navbar-nav {
+	margin: 0px 0px;
+}
+.navbar-collapse {
+	background: #ffffff;
+}
+.banner {
+	padding-top: 60px;
+	background-size: cover;
+	background-attachment: scroll;
+}
+.banner_bottom h4 {
+	font: 22px/28px "mulibold", Arial, Helvetica, sans-serif;
+}
+.banner_bottom h5 {
+	font: 18px/28px "mulilight", Arial, Helvetica, sans-serif;
+}
+a.seller_login {
+	margin: 8px 0;
+	padding: 3px 5px;
+}
+.pre_header {
+	display: none;
+}
+.right_bar {
+	display: block;
+	float: right;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	right: 42px;
+	top: 9px;
+}
+a.getbtn {
+  font-size: 16px;
+  line-height: normal;
+  margin: 15px 0 0;
+  padding: 10px 30px;
+}
+a.getbtn img {
+  height: auto;
+  max-width: 20px;
+}
+.integration_wrap h6 {
+   font-size: 20px;
+  line-height: 30px;
+  margin: 0;
+  padding: 0 0 5px;
+}
+a.learn_more {
+	font: 18px/26px "mulilight", Arial, Helvetica, sans-serif;
+}
+.banner_bottom {
+	margin: 0px 0 0;
+	padding: 20px 0;
+}
+.spark_Guaranty ul li {
+	font: 15px/26px "muliregular", Arial, Helvetica, sans-serif;
+}
+.spark_Guaranty ul li i {
+	float: left;
+	padding: 8px 10px 6px 0;
+}
+.contact_info i {
+	height: 48px;
+	line-height: 48px;
+	width: 48px;
+}
+.gaurantee_wrap h1 {
+	padding: 20px 0 0 0 !important;
+}
+.personalized_wrap h2, .gaurantee_wrap h1 {
+	font: 20px/28px "mulibold", Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	text-transform: uppercase;
+}
+.personalized_wrap h4 {
+	color: #000;
+	font: 17px/23px "mulibold", Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 10px 0;
+}
+.title h1 {
+	margin: 10px 0;
+	padding: 0;
+	font-size: 20px;
+	line-height: normal;
+}
+.title h6 {
+	text-align: center;
+	font: 16px/24px "mulilight", Arial, Helvetica, sans-serif;
+}
+.faq h4 {
+	font: 14px/20px "mulilight", Arial, Helvetica, sans-serif;
+}
+.testimonial_wrap {
+	padding: 26px 0;
+}
+.package_box h4 {
+	font: 15px/24px "mulibold", Arial, Helvetica, sans-serif;
+}
+.package_box h5 span {
+	font: 16px/26px "mulilight", Arial, Helvetica, sans-serif;
+}
+.package_box h5 {
+	font: 40px/46px "rubikbold", Arial, Helvetica, sans-serif;
+}
+.feature_box {
+	font: 14px/20px "rubikbold", Arial, Helvetica, sans-serif;
+}
+.banner h2 {
+	font: 26px/28px "mulilight", Arial, Helvetica, sans-serif;
+}
+.banner h1 {
+	font: 22px/26px "mulilight", Arial, Helvetica, sans-serif;
+}
+.banner h3 {
+	font: 18px/22px "muliregular", Arial, Helvetica, sans-serif;
+	padding: 10px 0;
+}
+.footer h3 {
+	font: 16px/20px "rubikbold", Arial, Helvetica, sans-serif;
+	padding: 14px 0;
+}
+.portfolioContainer .col-sm-4 {
+	padding: 0;
+	width: 100%;
+}
+.breadcrumb {
+	margin: 50px 0 0;
+}
+.order_l h2, .order_r h2, .order_l h2 small, .order_l p, .pre_footer p {
+	text-align: center;
+}
+.searchable-container .btn-group {
+	margin: 10px auto;
+}
+.workbox::after, .sec_box::before, .sec_box::after, .third_box::before, .third_box::after {
+	display: none
+}
+.point {
+	margin:10px auto 20px;
+	z-index: 100;
+}
+.sec_box, .third_box {
+	margin: 20px auto;
+	height: auto;
+}
+.sec_point .point {
+	margin: 0 auto;
+}
+.the_point .point {
+  margin: 0 auto;
+}
+.hide_pc {
+	display: block;
+}
+.workbox {
+	margin-bottom: 20px;
+}
+.hide_mob {
+	display: none;
+}
+.sec_box, .third_box {
+	text-align: center !important;
+}
+.portfolioFilter li {
+	display: block;
+}
+.discount_head {
+	font: 20px/26px "mulibold", Arial, Helvetica, sans-serif;
+	padding: 19px 0;
+}
+.join_wrap {
+	background-size: cover;
+}
+.contact_info, .contact_info a {
+	font: 16px/48px "mulilight", Arial, Helvetica, sans-serif;
+}
+.knowbox {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.spark_Guaranty {
+	padding: 5px 0px;
+}
+.spark_Guaranty h3 {
+	font: 22px/28px "mulibold", Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+.spark_Guaranty h4 {
+	display: none;
+}
+.footer_streep h1 {
+	font: 16px/24px "mulilight", Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+a.streep_btn {
+	width: 200px;
+}
+.heading_top {
+	padding: 60px 0 0px;
+}
+.do_wrap {
+	padding: 30px 0 0;
+}
+.promice_wrap p {
+	border-left: none;
+	color: #5b5b5b;
+	font: 16px/22px "mulilight", Arial, Helvetica, sans-serif;
+	padding: 0 0 0 0px;
+}
+.promice_l h3 {
+	font: 18px/25px "mulilight", Arial, Helvetica, sans-serif;
+	padding: 18px 0;
+}
+.why_box_info h4 {
+	font: 26px/32px "mulibold", Arial, Helvetica, sans-serif;
+}
+.footer h1 {
+	font: 26px/normal "mulilight", Arial, Helvetica, sans-serif;
+}
+.footer h2 {
+	font: 18px/24px "mulilight", Arial, Helvetica, sans-serif;
+}
+a.streep_btn {
+	font: 18px/22px "mulilight", Arial, Helvetica, sans-serif;
+	margin: 20px auto 10px;
+}
+.testimonial-box-blue {
+	right: 0;
+}
+.testimonial-box-green {
+	left: 0;
+	top: 0;
+}
+.testimonial-box {
+	padding: 20px;
+	font-size: 16px;
+	line-height: 24px;
+	margin-bottom: 50px;
+	margin-top: 0;
+	width: 100%;
+}
+.testimonial-author {
+	bottom: -80px;
+	left: 0;
+}
+#popup-signup {
+	padding: 10px;
+	width: 95%;
+}
+#popup-signup p {
+	font-size: 16px;
+	line-height: 22px;
+	margin-bottom: 20px;
+}
+#popup-signup h4 {
+	font: 20px/22px "mulibold", Arial, Helvetica, sans-serif;
+}
+
+#popup-signup .form-control {
+	height: 42px;
+}
+#popup-signup .letgo {
+	height: 42px;
+}
+/*ORDER PAGE*/
+
+.packagebox aside {
+	display: block;
+	float: left;
+	margin: 0;
+	width: 100%;
+}
+.packagebox aside span {
+	width: 100%;
+}
+.packagebox aside h2 {
+	position: absolute;
+	right: 14px;
+	top: 4px;
+}
+.first_step h3 {
+	font: 18px/24px "mulisemibold", Arial, Helvetica, sans-serif;
+	margin:0 0 20px;
+}
+.uniquebox .order_group {
+	float: right;
+	width: 70px;
+}
+.pricing-process-module > div {
+	margin: 0 auto;
+	width: 100%;
+}
+.pricing-process-box span.pricetag {
+	float: right;
+	line-height: normal;
+}
+.pricing-process-module > div.sign-box {
+	padding: 12px 0 0;
+	text-align: center;
+}
+.packagebox img {
+	height: auto;
+	width: 66px;
+}
+.border_l {
+	border-right: 0 none;
+}
+.third_step_inn, .forth_step_inn {
+	padding: 0;
+	min-height: auto;
+	background: none;
+	border: 0;
+}
+.cart_wrap {
+	padding: 10px;
+}
+.paypalimg {
+	margin-top: 30px;
+}
+.total_wrap {
+	padding: 15px;
+	font: 15px/22px "mulibold", Arial, Helvetica, sans-serif;
+}
+.cart_table td {
+	font: 14px/22px "muliregular", Arial, Helvetica, sans-serif;
+}
+.paymentbtn {
+	font: 18px/30px "mulilight", Arial, Helvetica, sans-serif;
+}
+.cd-breadcrumb.triangle li > * {
+	/*font: 0/88px "roboto_condensedregular", Arial, Helvetica, sans-serif;*/
+	padding: 1em 0 1em 1.5em;
+	white-space: normal;
+	text-align: center;
+	color: transparent;
+	line-height: 88px;
+}
+.cd-breadcrumb.triangle li.active > * {
+	font-size: 14px;
+}
+.cd-breadcrumb.triangle li > * {
+	white-space: normal;
+	word-break: break-all;
+}
+.cd-breadcrumb.triangle li a > span {
+	font: 14px/26px "roboto_condensedregular", Arial, Helvetica, sans-serif;
+	height: 26px;
+	left: 70%;
+	position: absolute;
+	top: 30px;
+	transform: translateX(-50%);
+	width: 26px;
+	z-index: 4;
+}
+.cd-breadcrumb.triangle li {
+	width: 15%;
+}
+.cd-breadcrumb.triangle li.active {
+	width: 55%;
+}
+.cd-breadcrumb.triangle li.active a > span {
+	top: 10px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.cd-breadcrumb.triangle li::after, .cd-breadcrumb.triangle li > *::after {
+	border-width: 44px 0 44px 12px;
+}
+ul.price-benefit li {
+	min-height: 100%;
+}
+.client-logo {
+	margin: 0;
+	padding: 0;
+}
+.client-logo li {
+	display: inline-block;
+	padding: 0 15px;
+	width: 48%;
+}
+.spark_does h3 {
+	text-align: center;
+}
+.spark_does p {
+	font: 14px/24px "muliregular", Arial, Helvetica, sans-serif;
+	padding: 10px 0;
+	text-align: center;
+}
+.services-sec {
+	margin: 30px 0 0 0;
+}
+.global-cus {
+	font: 28px/32px "mulibold", Arial, Helvetica, sans-serif !important;
+}
+.free-report {
+	font: 18px/25px "mulilight", Arial, Helvetica, sans-serif;
+}
+.spark_does p.what-do {
+	font: 22px/28px "mulibold", Arial, Helvetica, sans-serif !important;
+}
+.package_box h3 {
+	font: 22px/28px "mulibold", Arial, Helvetica, sans-serif;
+}
+a.order_btn {
+  font: 12px "mulibold",Arial,Helvetica,sans-serif;
+  margin: 10px auto;
+  padding: 10px 20px;
+}
+.client-logo-section p {
+	font: 20px/24px "mulibold", Arial, Helvetica, sans-serif;
+}
+.client-logo-row {
+	margin: 0 0 20px 0;
+}
+.thousand {
+	font: 26px/30px "mulibold", Arial, Helvetica, sans-serif;
+}
+.see-about {
+	font: 18px/22px "mulilight", Arial, Helvetica, sans-serif;
+}
+.money {
+	font: 24px/30px "mulibold", Arial, Helvetica, sans-serif;
+}
+.confident {
+	font: 18px/24px "mulilight", Arial, Helvetica, sans-serif;
+}
+.custome_design_bg {
+	background-position: right bottom;
+	background-size: 100% auto;
+	padding-bottom: 150px;
+	padding-top: 0;
+}
+.process_img:after {
+	display: none;
+}
+.psd-email-pr {
+	color: #169aff;
+	font: 26px/82px "mulibold", Arial, Helvetica, sans-serif;
+	height: 80px;
+	position: static;
+	width: 80px;
+	margin: 10px auto 0 auto;
+}
+.deliveryblock1 {
+	width: 100%;
+	padding: 15px;
+	border-radius: 10px;
+	text-align: center;
+}
+.policy_wrap ul li {
+	width: 100%;
+}
+.policy_wrap ul li a {
+	padding: 10px 10px;
+	font: 18px/22px "muliregular", Arial, Helvetica, sans-serif;
+}
+.light_blue_wrap hr {
+	margin: 0px 0;
+}
+.policyblock h3 {
+	font: 20px/26px "muliregular", Arial, Helvetica, sans-serif;
+}
+.client-logo-row {
+	text-align:center;
+}
+.client-logo-row img {
+  display: inline-block;
+}
+.third_step_inn img {
+  margin: 10px 0;
+}
+.order-btn-block {
+  padding: 15px 0 10px;
+}
+.btn_next, .btn_prev {
+  padding: 10px 20px;
+  margin: 0 0 5px;
+  vertical-align: top;
+  min-width: 115px;
+  font-size:14px;
+}
+.or_txt { 
+  margin: 15px auto;
+}
+.innerpage_wrap {
+  padding: 0;
+}
+.sidebar-widget iframe  {
+   width:100% !important; 
+}
+button.quoteboxbtn {
+  font: 12px/normal "mulibold",Arial,Helvetica,sans-serif;
+  padding: 10px 20px;
+}
+}
+ @media only screen and (max-width: 321px) {
+}
+ @media only screen and (min-width: 481px) and (max-width: 640px) {
+}
+ @media only screen and (max-width: 361px) {
+.cd-breadcrumb.triangle li > * {
+	padding: 1em 0 1em 0.5em;
+	white-space: normal;
+	text-align: center;
+}
+}
+ @media only screen and (min-width:768px) and (max-width:1024px) {
+.grid-item {
+	height: 150px;
+}
+.blog-caption {
+	bottom: auto;
+	top: 0;
+	left: 0;
+}
+.blog-caption {
+	padding: 5px;
+	width: 140px;
+}
+.blog-caption h3 {
+	font-size: 14px;
+}
+.blog-caption p {
+	font-size: 12px;
+}
+.banner {
+	padding: 110px 0 0;
+}
+.banner h1 {
+	font: 38px/48px "mulilight", Arial, Helvetica, sans-serif;
+}
+.banner_bottom {
+	margin: 0px 0 0;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #ffffff;
+	padding: 10px 5px;
+	font: 13px/35px "muliregular", Arial, Helvetica, sans-serif;
+}
+a.orderbtn {
+	font: 12px/20px "muliregular", Arial, Helvetica, sans-serif !important;
+	margin: 12px 0;
+	padding: 7px 10px !important;
+}
+#mainmenu.affix a.orderbtn {
+	margin: 12px 0;
+}
+#mainmenu.affix .navbar-brand a {
+	padding: 30px 15px;
+}
+.navbar-default .navbar-nav > li.phone_no > a {
+	font: 12px/35px "mulibold", Arial, Helvetica, sans-serif !important;
+}
+#mainmenu.affix .navbar-nav > li.phone_no > a {
+	font: 12px/35px "mulibold", Arial, Helvetica, sans-serif !important; 
+}
+#mainmenu.affix .navbar-nav > li > a {
+	color: #000000;
+	line-height: 35px;
+}
+.navbar-brand a {
+	width: 117px;
+}
+.sec_box {
+	height: auto;
+}
+.navbar::after {
+	top: 56px;
+}
+#mainmenu.header-open .navbar-nav > li > a {
+	color: #fff;
+}
+#mainmenu {
+	height: 57px;
+}
+.custome_design_bg {
+  background-position: right bottom;
+  background-size: 50% auto;
+  padding-bottom: 20px;
+  padding-top: 0;
+}
+}
+ @media only screen and (min-width:768px) and (max-width:959px) {
+.left_fix {
+	top: 40%;
+}
+.banner h3 {
+	font: 24px/34px "mulilight", Arial, Helvetica, sans-serif;
+}
+.banner_bottom h4 {
+	font: 28px/34px "mulibold", Arial, Helvetica, sans-serif;
+}
+.banner_bottom h5 {
+	font: 20px/28px "mulilight", Arial, Helvetica, sans-serif;
+}
+.spark_does h6, .package_box p {
+	font: 18px/24px "muliregular", Arial, Helvetica, sans-serif;
+}
+.spark_Guaranty {
+	background-position: right center;
+	background-size: 55% auto;
+}
+.spark_Guaranty h3 {
+	font: 22px/28px "mulilight", Arial, Helvetica, sans-serif;
+}
+.spark_Guaranty ul li {
+	font: 15px/18px "mulilight", Arial, Helvetica, sans-serif;
+}
+a.loginbtn {
+	font: 12px/15px "mulilight", Arial, Helvetica, sans-serif !important;
+	margin: 12px 3px 0 0;
+	padding: 9px 3px !important;
+	text-transform: uppercase;
+}
+header.smaller .menu .navbar-nav > li > a.loginbtn {
+	border-radius: 500px;
+	font: 12px/15px "mulilight", Arial, Helvetica, sans-serif !important;
+	margin: 12px 3px 0 0;
+	padding: 9px 4px !important;
+	text-transform: uppercase;
+}
+.personalized_wrap h2 {
+	font: 22px/34px "mulibold", Arial, Helvetica, sans-serif;
+}
+.personalized_wrap h4 {
+	font: 18px/24px "mulibold", Arial, Helvetica, sans-serif;
+	padding: 0 0 10px;
+}
+.testimonial_sec {
+	font: 14px/22px "rubikbold", Arial, Helvetica, sans-serif;
+}
+.fact_repeat p {
+	font: 15px/20px "architects_daughterregular", Arial, Helvetica, sans-serif;
+}
+.fact_repeat h4 {
+	font: 38px/38px "mulibold", Arial, Helvetica, sans-serif;
+}
+.package_box h4 {
+	font: 16px/30px "mulibold", Arial, Helvetica, sans-serif;
+}
+.package_box h3 {
+	font: 22px/28px "mulibold", Arial, Helvetica, sans-serif;
+}
+.feature_box {
+	color: #2d2d2d;
+	font: 9px/14px "mulilight", Arial, Helvetica, sans-serif;
+	padding: 15px 0;
+}
+.feature_box i {
+	font-size: 16px;
+	padding: 0 5px 0 0;
+}
+.title h1 {
+	font: 28px/30px "mulibold", Arial, Helvetica, sans-serif;
+}
+.blog_box h3 {
+	font: 14px/18px "mulibold", Arial, Helvetica, sans-serif;
+}
+.gaurantee_wrap h1 {
+	font: 20px/29px "mulibold", Arial, Helvetica, sans-serif;
+}
+.footer h3 {
+	font: 12px/20px "mulibold", Arial, Helvetica, sans-serif;
+}
+.newsletter_box input {
+	width: 72%;
+}
+.package_box h6 {
+	font: 16px/24px "mulilight", Arial, Helvetica, sans-serif;
+}
+.order_line::before {
+	left: -32px;
+}
+.sec_box p, .third_box p, .workbox_inn p {
+	font-size: 14px;
+	line-height: 22px;
+}
+.workbox::after {
+	bottom: -50px;
+	height: 297px;
+	left: -78px;
+}
+.sec_box::after {
+	left: -72px;
+	top: -41px;
+	width: 133%;
+}
+.sec_box::before {
+	height: 262px;
+	right: -85px;
+	top: -37px;
+}
+.third_box::before {
+	height: 345px;
+	left: -72px;
+	top: -48px;
+}
+.third_box::after {
+	right: -86px;
+	top: -48px;
+	width: 133%;
+}
+.sec_box_last::before {
+	height: 77px !important;
+}
+a.streep_btn {
+	margin: 20px auto;
+	padding: 12px 20px;
+}
+.portfolioFilter li a {
+	font: 18px/46px "mulilight", Arial, Helvetica, sans-serif;
+	padding: 8px 20px;
+}
+.count {
+	background-size: 100% auto;
+	height: 100%;
+	padding: 25px 0;
+	width: 100%;
+}
+.count h3 span {
+	font: 32px "mulibold", Arial, Helvetica, sans-serif;
+}
+.contact_info i {
+	height: 40px;
+	line-height: 40px;
+	margin: 0 6px 0 0;
+	width: 40px;
+}
+.contact_info, .contact_info a {
+	font: 13px/40px "mulilight", Arial, Helvetica, sans-serif;
+}
+.socialbox li a {
+	padding: 10px;
+}
+.service_last h3 {
+	font: 15px/20px "mulibold", Arial, Helvetica, sans-serif;
+}
+.secret_box {
+	height: 230px;
+}
+.place_wrap h3 {
+	font: 16px/20px "mulibold", Arial, Helvetica, sans-serif;
+	margin: 0 27px;
+}
+.footer h1 {
+	font: 32px/24px "mulilight", Arial, Helvetica, sans-serif;
+}
+.footer h2 {
+	font: 18px/24px "mulilight", Arial, Helvetica, sans-serif;
+}
+/*ORDER page*/
+
+.cd-breadcrumb li > *, .cd-multi-steps li > * {
+	font: 14px/45px "mulibold", Arial, Helvetica, sans-serif;
+}
+.packagebox img {
+	height: auto;
+	margin: 0;
+	width: 70px;
+}
+.packagebox aside {
+	display: block;
+	float: left;
+	margin: 0;
+	width: 100%;
+}
+.packagebox aside span h4 {
+	font: 15px/20px "mulisemibold", Arial, Helvetica, sans-serif;
+	margin: 5px 0;
+}
+.packagebox aside h2 {
+	position: absolute;
+	right: 10px;
+	top: 0;
+	padding: 15px 0 0 0;
+}
+.delivery_box .packagebox aside span {
+	width: 75%;
+}
+.delivery_box .packagebox aside h2 {
+	padding: 16px 0 0 0;
+}
+.packagebox aside span {
+	width: 100%;
+}
+.uniquebox h3 {
+	font-size: 14px;
+}
+.uniquebox .order_group {
+	float: right;
+	width: 70px;
+}
+.sec_step h3 {
+	font: 16px/24px "mulisemibold", Arial, Helvetica, sans-serif;
+}
+.checkboxes label {
+	font: 13px/22px "mulilight", Arial, Helvetica, sans-serif;
+}
+.checkboxes .esp_price {
+	font: 13px/22px "mulilight", Arial, Helvetica, sans-serif;
+}
+.pricing-process-module > div {
+	display: block;
+	float: left;
+	margin: 5px 0 !important;
+	overflow: hidden;
+	height: 48px;
+}
+.third_step_inn .label_head {
+	font: 16px/22px "mulisemibold", Arial, Helvetica, sans-serif;
+}
+.services-sec {
+	margin: 100px 0 0;
+	width: 100%;
+}
+.thank_wrap {
+	height: 100%;
+	position: relative;
+}
+.thankyou_footer {
+	bottom: 0;
+	left: 0;
+	position: absolute;
+	right: 0;
+}
+.why-love-sparkemail .our-strengths-sec .box .box-title {
+  min-height: 60px;
+}
+}
+ @media only screen and (min-width: 960px) and (max-width: 1024px) {
+.spark_Guaranty {
+	background-position: right center;
+	background-size: 55% auto;
+}
+}
+@media only screen and (min-width:981px) and (max-width:1024px) {
+.container {
+	width: 980px
+}
+.navbar::after {
+	border-bottom: 1px solid #ccc;
+	content: "";
+	left: 0;
+	position: absolute;
+	top: 56px;
+	width: 100%;
+}
+.navbar-brand a {
+	width: 160px;
+}
+.packagebox img {
+	height: auto;
+	margin: 0;
+	width: 70px;
+}
+.packagebox aside {
+	display: block;
+	float: left;
+	margin: 0;
+	width: 100%;
+}
+.packagebox aside span h4 {
+	font: 15px/20px "mulisemibold", Arial, Helvetica, sans-serif;
+	margin: 5px 0;
+}
+.packagebox aside h2 {
+	position: absolute;
+	right: 10px;
+	top: 0;
+	padding: 15px 0 0 0
+}
+.packagebox aside span {
+	width: 100%;
+}
+.pricing-process-module > div {
+	display: block;
+	float: left;
+	height: 48px;
+	margin: 5px 0 !important;
+	overflow: hidden;
+}
+.packagebox .btn {
+	height: 150px;
+}
+.delivery_box .packagebox .btn {
+	height: auto;
+}
+.delivery_box .packagebox aside h2 {
+	padding: 6px 0 0 0;
+}
+.checkboxes label {
+	font: 13px/22px "mulilight", Arial, Helvetica, sans-serif;
+}
+.checkboxes .esp_price {
+	font: 13px/22px "mulilight", Arial, Helvetica, sans-serif;
+}
+.order_l_box .searchable-container {
+	display: block;
+	float: left;
+	width: 100%;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #ffffff;
+	font: 16px/35px "muliregular", Arial, Helvetica, sans-serif;
+	padding: 10px 16px;
+}
+.contact_info i {
+	height: 40px;
+	line-height: 40px;
+	margin: 0 10px 0 0;
+	width: 40px;
+}
+.contact_info, .contact_info a {
+	font: 16px/40px "mulilight", Arial, Helvetica, sans-serif;
+}
+.workbox::after {
+	bottom: -51px;
+	height: 255px;
+	left: -97px;
+}
+.sec_box::after {
+	height: 10px;
+	left: -91px;
+	top: -41px;
+	width: 130%;
+}
+.sec_box::before {
+	height: 244px;
+	position: absolute;
+	right: -96px;
+	top: -41px;
+}
+.third_box::before {
+	height: 293px;
+	left: -97px;
+	top: -42px;
+	width: auto;
+}
+.third_box::after {
+	right: -92px;
+	top: -48px;
+	width: 130%;
+}
+.sec_box_last::before {
+	height: 77px !important;
+}
+.social a {
+	font-size: 15px;
+	padding: 9px;
+}
+.thank_wrap {
+	height: 100%;
+	position: relative;
+}
+.thankyou_footer {
+	bottom: 0;
+	left: 0;
+	position: absolute;
+	right: 0;
+}
+}
+@media only screen and (min-width:1280px) and (max-width:5000px) {
+}
